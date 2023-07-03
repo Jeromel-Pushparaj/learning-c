@@ -1,3 +1,4 @@
+//here we are using array
 #include<stdio.h>
 int main(){
   int a[5]={1,2,3,4,5};
