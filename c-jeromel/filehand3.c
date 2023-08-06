@@ -5,7 +5,7 @@ int main(){
     char ch[40];
     int i;
 
-    printf("Enter your string: ");
+    printf ("Enter your string: ");
     scanf("%[^\n]",ch);
 
     for(i=0;ch[i]!='\0';i++)
